@@ -1,0 +1,47 @@
+[{
+    "_id": { },
+    "marketcap": 0,
+    "name":"Netsis",
+    "price":0.0010,
+    "symbol":"NET",
+    "volume":3927,
+    "roi":0,
+    "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHUOnD2gHE3h5FJSPseGEL5y6NabImx302McI2Vt5GhZSelmv"
+},
+{
+    "_id": { },
+    "marketcap":548307,
+    "name":"Kiirocoin",
+    "price":0.1086,
+    "symbol":"KIIRO",
+    "volume":0,
+    "roi":1.538,
+    "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLrYqEussZsaW5aHd3rO1hWNOeGxegpRmCCfI0znv9ZADAjbAb"
+},
+{"_id": { },
+"marketcap": 343453742,
+"name":"Dash Evo",
+"price":29.1300,
+"symbol":"DASH",
+"volume":39613157.60,
+"roi":0.077,
+"url":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNp2J_UUT80sBOH88xDBG8pFV499dzYAfwS2uCpczKnLETrWTo"
+},
+{"_id": { },
+"marketcap": 2121261724,
+"name":"Theta Network",
+"price":2.1200,
+"symbol":"THETA",
+"volume":30546296.94,
+"roi":0,
+"url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCumy4mrJJIfwQomlGWqrepyZFXZzdvFey4-6eketwluiTwzEsL2TI3OH3opJrOOV1CyU&usqp=CAU"
+},
+{"_id": { },
+"marketcap": 144450757,
+"name":"SysCoin",
+"price":0.1859,
+"symbol":"SYS",
+"volume":1650276.79,
+"roi":0.051,
+"url":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNoIscDWeIbpwhZGIiuTORiMJbVze-4DIVsKgLvhonZzH2zuu-"
+},]
